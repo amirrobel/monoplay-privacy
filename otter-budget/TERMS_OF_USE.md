@@ -18,9 +18,9 @@ You agree not to misuse the App, attempt to bypass its purchase or security cont
 
 ## 3. Personal data and device storage
 
-Your entered financial records are stored primarily in the App’s local SQLite database on your device. We do not currently provide our own cloud account or automatic cross-device synchronization for these records. Device backup settings may affect whether records are included in an operating-system backup.
+Your entered financial records are stored primarily in the App’s local SQLite database. In the installed iOS app, automatic backups use your private iCloud/CloudKit storage when available. These backups can restore your records on another device using the same Apple Account; they are not real-time collaborative synchronization. We do not operate a separate cloud account for your budget. Backup availability depends on Apple’s services, your account, storage and connection. Check the backup status in Settings. Conflicting copies may require you to choose which records to retain. Device backup settings may also affect operating-system backups.
 
-**Deleting or reinstalling the App, resetting your device, or losing your device may permanently remove locally stored data.** You are responsible for maintaining any permitted device backups.
+**Deleting or reinstalling the App, resetting your device, or losing your device may permanently remove locally stored data if no usable backup is available.** Do not assume a change has reached iCloud until saving is confirmed. Restoring a subscription restores paid access, not the budget itself; budget recovery requires local records or an available backup. Removing the App does not necessarily delete its iCloud copies.
 
 For further information, see our [Privacy Policy](PRIVACY_POLICY.md).
 
