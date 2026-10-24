@@ -8,7 +8,7 @@ This Privacy Policy describes how **Otter Budget: Money Planner** (the “App”
 
 You may enter your name, preferred currency, payday, planned income, budget limits, recurring bills, transaction amounts, dates and notes, savings targets, contributions, language and appearance settings.
 
-**Your financial records are stored locally on your device** in the App’s private SQLite database. We do not operate a cloud account or server that receives the contents of your income, expenses, transactions, or savings records, and we cannot remotely view or recover them. Device backups managed by Apple or another device provider may include App data depending on your settings and the provider’s policies.
+**Your financial records are stored locally on your device** in the App’s private SQLite database. We do not operate a cloud account or server that receives the contents of your income, expenses, transactions, or savings records, and we cannot remotely view or recover them. When iCloud is available in the installed iOS app, the App automatically saves your financial records and preferences to your private CloudKit database associated with your Apple Account. This supports restoring your budget on another device using the same account. The App uses an app-specific iCloud account identifier, backup timestamps and revisions to detect conflicting copies. We do not receive your Apple Account password or operate a separate server that stores these budget backups. Apple's handling of iCloud data is described in [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/). Operating-system device backups may also include App data depending on your settings.
 
 ## 2. Subscriptions and purchases
 
@@ -33,17 +33,17 @@ Purchase-related and technical information may be shared with the store and Reve
 
 ## 5. Storage and security
 
-Budgeting information is kept in local App storage, subject to your device’s security and any backups you enable. We apply reasonable precautions, but no method of storage or transmission is completely secure. The App does not currently connect to your bank or request online banking credentials.
+Budgeting information is kept in local App storage and, when iCloud is available, in the App’s private CloudKit backup. Backup availability depends on your Apple Account, iCloud storage, connectivity and Apple’s services. You can see the backup status in Settings; conflicting copies may require you to choose which data to retain. We apply reasonable precautions, but no method of storage or transmission is completely secure. The App does not currently connect to your bank or request online banking credentials.
 
 ## 6. Data retention and deletion
 
-Local financial entries remain on your device until you edit or delete them through available App features or uninstall the App. Uninstalling generally removes the local database, although copies may remain in device backups.
+Local financial entries remain on your device until you edit or delete them through available App features or uninstall the App. Uninstalling generally removes the local database, but does not necessarily remove iCloud data or device backups. The App’s iCloud backup may retain a current and a previous snapshot. A deleted entry may remain in the previous snapshot until it is replaced or the cloud data is deleted. Manage the App’s iCloud access and stored data through your device’s Apple Account/iCloud settings.
 
 Apple, Google and RevenueCat may retain transaction-related information as necessary for verification, refunds, accounting, fraud prevention, or legal requirements. Contact us below to request access to or deletion of information under our control. We may need a purchase identifier to find related subscription records.
 
 ## 7. Your choices and rights
 
-You may edit information available in the App, manage device backups, stop using the App, and request access, correction or deletion of information we control. Other privacy rights may apply depending on your location. Because your financial entries stay on your device, we generally cannot remotely retrieve or erase those entries. Cancel subscriptions separately through Apple or Google.
+You may edit information available in the App, manage device backups, stop using the App, and request access, correction or deletion of information we control. Other privacy rights may apply depending on your location. Because your financial entries are stored on your device and in your private iCloud backup, we cannot remotely retrieve or erase those entries on your behalf. Cancel subscriptions separately through Apple or Google.
 
 ## 8. Children
 
