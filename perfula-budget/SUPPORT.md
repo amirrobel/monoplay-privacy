@@ -1,0 +1,41 @@
+# Perfula Budget — Support
+
+**Perfula Budget: Money Planner** helps you record income and expenses, plan category budgets, and work toward savings goals.
+
+## Contact support
+
+**Email:** [monoplay.app@gmail.com](mailto:monoplay.app@gmail.com?subject=Perfula%20Budget%20Support)
+
+For technical problems, billing questions, general feedback, or feature requests, contact us at the email above.
+
+When reporting a problem, it helps to include:
+- Your device model and iOS version.
+- Your Perfula Budget app version.
+- The steps needed to reproduce the issue.
+- A screenshot **only if it contains no sensitive financial information**.
+
+Please **do not send** payment-card details, passwords, or private transaction records.
+
+## Subscription help
+
+**Restore a purchase:** open the App's subscription screen and choose **Restore Purchases**. Make sure you are signed in to the Apple Account used to buy the subscription. Purchase availability depends on your App Store account and subscription status.
+
+**Cancel on iPhone:** open **Settings → Apple Account → Subscriptions → Perfula Budget → Cancel Subscription**, if the subscription is listed. Uninstalling the App does not cancel a subscription.
+
+**Billing and refunds:** Apple processes App Store payments. For refund requests, visit [reportaproblem.apple.com](https://reportaproblem.apple.com/).
+
+If you still cannot access a paid feature after a purchase, contact us and include the transaction date and a non-sensitive purchase reference if available. Never send full payment details.
+
+## Your financial data
+
+Personal budgeting entries are stored locally on your device. When iCloud is available, Perfula Budget automatically backs up your records to your private CloudKit storage so they can be restored on another device using the same Apple Account. Check the backup status in Settings. Deleting the App may remove local records and does not necessarily delete iCloud copies. Do not uninstall the App as a troubleshooting step unless you have confirmed a usable backup.
+
+## Privacy
+
+Read the [Perfula Budget Privacy Policy](PRIVACY_POLICY.md) for details about local data, purchases, and privacy requests.
+
+---
+
+**Developer support:** [monoplay.app@gmail.com](mailto:monoplay.app@gmail.com)
+
+© 2026 Perfula Budget.
