@@ -1,8 +1,8 @@
-# Otter Budget — Privacy Policy
+# Perfula Budget — Privacy Policy
 
-**Effective date: October 24, 2026**
+**Effective date: November 3, 2026**
 
-This Privacy Policy describes how **Otter Budget: Money Planner** (the “App”) handles information. The App is provided by the developer identified as the seller on its App Store listing (“we,” “us,” “our”).
+This Privacy Policy describes how **Perfula Budget: Money Planner** (the “App”) handles information. The App is provided by the developer identified as the seller on its App Store listing (“we,” “us,” “our”).
 
 ## 1. Information stored on your device
 
@@ -59,4 +59,4 @@ Subscription providers may process technical and purchase information outside yo
 
 Use this address for privacy questions, data-rights requests, and subscription-related enquiries.
 
-© 2026 Otter Budget.
+© 2026 Perfula Budget.
